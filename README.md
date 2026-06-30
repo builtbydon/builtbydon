@@ -1,16 +1,61 @@
-### Hi, I'm Don — I build small, self-hostable tools that make everyday life simpler.
+<p align="center">
+  <a href="https://builtbydon.dev">
+    <img src="https://builtbydon.dev/assets/avatar.png" width="96" alt="BuiltByDon logo" />
+  </a>
+</p>
 
-Practical apps for **productivity, managing your own life, and learning** — the
-kind of things I wanted for myself, now open for you to run too. No accounts to
-sign up for, no data leaving your machine.
+<h1 align="center">BuiltByDon</h1>
 
-**What I'm building**
+<p align="center">
+  Small, self-hostable tools for productivity, life management, and learning.
+</p>
 
-- A growing suite of self-hosted apps — finance, media, learning, and more
-- All open source, all runnable on your own hardware
-- A public site at [builtbydon.dev](https://builtbydon.dev)
+<p align="center">
+  <a href="https://builtbydon.dev"><strong>Website</strong></a>
+  ·
+  <a href="https://builtbydon.dev/contact.html"><strong>Contact</strong></a>
+  ·
+  <a href="https://github.com/builtbydon?tab=repositories"><strong>Projects</strong></a>
+</p>
 
-Some apps run on your own Claude subscription via headless Claude Code. No API key needed.
+---
 
-If one of these earns a place in your routine and you'd like to help keep it
-growing, you can back the work — always appreciated, never required.
+### What this is
+
+I build practical apps that help with everyday life: tracking money, organizing
+media, learning, workflows, and the small systems that keep things moving.
+
+The aim is simple:
+
+- Run it yourself
+- Keep your data on your own machine when possible
+- Avoid account sprawl
+- Make tools useful enough to earn a place in a real routine
+
+### Current focus
+
+| Area | What I’m building toward |
+| --- | --- |
+| Personal finance | Local-first money tracking and planning |
+| Media & organization | Small tools for managing collections and routines |
+| Learning | Apps that make practice, review, and progress easier |
+| Self-hosting | Clean public releases that are straightforward to run |
+
+### Notes
+
+Some projects can use your own Claude subscription through headless Claude Code.
+When a project requires that, it will be clearly called out in the README.
+
+Public releases are published here as cleaned, self-hostable mirrors. The private
+source work stays separate.
+
+---
+
+<p align="center">
+  <a href="https://builtbydon.dev">
+    <img alt="builtbydon.dev" src="https://img.shields.io/badge/builtbydon.dev-online-f0a71f?style=for-the-badge&labelColor=101114" />
+  </a>
+  <a href="https://github.com/builtbydon">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-builtbydon-444650?style=for-the-badge&labelColor=101114" />
+  </a>
+</p>
