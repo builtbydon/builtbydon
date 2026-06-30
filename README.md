@@ -1,53 +1,49 @@
 <p align="center">
   <a href="https://builtbydon.dev">
-    <img src="https://builtbydon.dev/assets/avatar.png" width="96" alt="BuiltByDon logo" />
+    <img src="./assets/builtbydon-banner.svg" alt="BuiltByDon - small, self-hostable tools for everyday life." />
   </a>
-</p>
-
-<h1 align="center">BuiltByDon</h1>
-
-<p align="center">
-  Small, self-hostable tools for productivity, life management, and learning.
 </p>
 
 <p align="center">
   <a href="https://builtbydon.dev"><strong>Website</strong></a>
-  ·
+  &nbsp;|&nbsp;
   <a href="https://builtbydon.dev/contact.html"><strong>Contact</strong></a>
-  ·
+  &nbsp;|&nbsp;
   <a href="https://github.com/builtbydon?tab=repositories"><strong>Projects</strong></a>
 </p>
 
 ---
 
-### What this is
+## What I build
 
-I build practical apps that help with everyday life: tracking money, organizing
-media, learning, workflows, and the small systems that keep things moving.
+Small, self-hostable tools for productivity, life management, and learning.
 
-The aim is simple:
+I like software that is practical, quiet, and useful enough to earn a real place
+in your routine. The focus is on tools you can run yourself, understand, and keep
+close to your own data.
 
-- Run it yourself
-- Keep your data on your own machine when possible
-- Avoid account sprawl
-- Make tools useful enough to earn a place in a real routine
-
-### Current focus
-
-| Area | What I’m building toward |
+| Focus | Direction |
 | --- | --- |
-| Personal finance | Local-first money tracking and planning |
-| Media & organization | Small tools for managing collections and routines |
-| Learning | Apps that make practice, review, and progress easier |
-| Self-hosting | Clean public releases that are straightforward to run |
+| Personal finance | Local-first tracking, planning, and everyday money clarity |
+| Media and organization | Tools for managing collections, routines, and household systems |
+| Learning | Apps for practice, review, and steady progress |
+| Self-hosting | Clean public releases with clear setup paths |
 
-### Notes
+## Principles
 
-Some projects can use your own Claude subscription through headless Claude Code.
-When a project requires that, it will be clearly called out in the README.
+- Self-hostable first
+- Plain setup instructions
+- Private by default when possible
+- No surprise accounts
+- Clear disclosure when a project needs Claude or another paid tool
 
-Public releases are published here as cleaned, self-hostable mirrors. The private
-source work stays separate.
+## Current status
+
+The public catalog is just getting started. Repositories will appear here as
+cleaned, self-hostable mirrors are published from the private source work.
+
+Some projects can run through your own Claude subscription with headless Claude
+Code. When that is required, the repo README will say so directly.
 
 ---
 
