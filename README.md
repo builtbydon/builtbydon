@@ -1,57 +1,21 @@
-<p align="center">
-  <a href="https://builtbydon.dev">
-    <img src="./assets/builtbydon-banner.svg" alt="BuiltByDon - small, self-hostable tools for everyday life." />
-  </a>
-</p>
+# Hi, I'm Don 👋
 
-<p align="center">
-  <a href="https://builtbydon.dev"><strong>Website</strong></a>
-  &nbsp;|&nbsp;
-  <a href="https://builtbydon.dev/contact.html"><strong>Contact</strong></a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/builtbydon?tab=repositories"><strong>Projects</strong></a>
-</p>
-
----
+I build small, self-hosted apps for productivity, life management, and learning — the kind of tools I wanted but couldn't find, kept simple enough to run on my own hardware.
 
 ## What I build
 
-Small, self-hostable tools for productivity, life management, and learning.
+Lightweight, single-purpose apps you can host yourself. No accounts to sign up for, no data leaving your machine, no bloat — just focused tools that do one thing well.
 
-I like software that is practical, quiet, and useful enough to earn a real place
-in your routine. The focus is on tools you can run yourself, understand, and keep
-close to your own data.
+## Featured projects
 
-| Focus | Direction |
-| --- | --- |
-| Personal finance | Local-first tracking, planning, and everyday money clarity |
-| Media and organization | Tools for managing collections, routines, and household systems |
-| Learning | Apps for practice, review, and steady progress |
-| Self-hosting | Clean public releases with clear setup paths |
+🚧 First projects are in the works — check back soon, or watch this space to catch them as they land.
 
-## Principles
+## Support
 
-- Self-hostable first
-- Plain setup instructions
-- Private by default when possible
-- No surprise accounts
-- Clear disclosure when a project needs Claude or another paid tool
+If something I build ends up useful to you, a ⭐ on the repo is genuinely appreciated — it's how these projects find the next person who needs them.
 
-## Current status
+## Support this work
 
-The public catalog is just getting started. Repositories will appear here as
-cleaned, self-hostable mirrors are published from the private source work.
+This tool is free and open. If it earns a place in your routine and you want to help keep it growing, you can back the work directly.
 
-Some projects can run through your own Claude subscription with headless Claude
-Code. When that is required, the repo README will say so directly.
-
----
-
-<p align="center">
-  <a href="https://builtbydon.dev">
-    <img alt="builtbydon.dev" src="https://img.shields.io/badge/builtbydon.dev-online-f0a71f?style=for-the-badge&labelColor=101114" />
-  </a>
-  <a href="https://github.com/builtbydon">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-builtbydon-444650?style=for-the-badge&labelColor=101114" />
-  </a>
-</p>
+[![Support](https://img.shields.io/badge/Support-f59e0b?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/builtbydon)
